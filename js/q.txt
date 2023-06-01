@@ -1,0 +1,29 @@
+res (kse func k parameter m jarha hai)
+spread(value k parameter mjarha ho)
+promise( 3typesvalue 
+1. pending
+2. fullfill
+3.reject)
+two types of condition
+1. resolve 2. reject
+
+let mypromise = new promise(resolve, reject)
+
+*  error tb he aega jb reject hoga
+* then isliya use krta jb resolve krnA HO
+* catch isliya aega tka error handle ho wo usa as a string lega
+* await is only valid to async function or top of the body 
+async ()
+*  try and catch for error handling 
+API is middle layer
+
+
+desktop -> make a folder -> then write cmd in search box -> npm create vitelatest-> cd vite project -> npm install
+
+*cd chain directory
+* react m sari app one page app hti h
+* react aik component based hai
+componrnt is reuseable function hai
+* jsx java script expandable 
+* all code written in return {}
+
